@@ -3,8 +3,8 @@ import pandas as pd
 import streamlit as st
 from sklearn.ensemble import RandomForestRegressor
 
-SALES_FILE = "retail_sales_ml_apl.csv"
-INV_FILE = "retail_inventory_ml_apl.csv"
+SALES_FILE = "slim_sales.csv"
+INV_FILE = "slim_inventory.csv"
 HORIZON = 30
 
 
