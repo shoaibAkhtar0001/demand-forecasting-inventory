@@ -1,4 +1,1 @@
-# demand-forecasting-inventor
-# demand-forecasting-inventor
-# demand-forecasting-inventor
-# demand-forecasting-inventor
+https://shoaibakhtar0001-demand-forecasting-inventory-app-vggekp.streamlit.app/
